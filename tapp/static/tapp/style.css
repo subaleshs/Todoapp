@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(76, 146, 180);
+}
+ .todomain{
+    justify-content: center;
+    margin: 200px auto;
+    width: 50%;
+    background: aquamarine;    
+}
+
+
+.btn-outline-secondary{
+
+    background: rgb(134, 25, 34);
+    color: cornsilk;
+}
+
+.cross{
+
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    padding: 12px 16px;
+    transform: translate(0%, -50%);
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.tdo{
+    text-decoration:  none;
+    font-weight: bolder;
+    color: rgb(197, 95, 55);
+}
+
+#head{
+    color: rgb(228, 122, 154) ;
+    text-align: center;
+    margin-top: 50px;
+    background: teal;
+}
+
+p{
+    color:rgb(131, 6, 6);
+    font-size:10px; 
+    text-align:right;
+    font-weight: bold;
+} 
